@@ -2,7 +2,6 @@ Este archivo sera borrado asi que no importa el contendio.
 
 Dicen que soy inrrastreable 😎.
 
-
-
-
 Agrego texto y regresamos a la normalidad.
+
+Comprobamos que el texto se borro, pero ahora pondemos a prueba el reset mixed.
